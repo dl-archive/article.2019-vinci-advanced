@@ -32,10 +32,21 @@
 `acmart.cls` v1.59 (2019/03/29), which the original was built with, is bundled in `src/` and takes precedence over the TeX Live 2019 version (v1.70).
 The sources package sent to ACM referenced the shared project bibliography (`../../../references/references`); `src/references.bib` is that file at the camera-ready commit, reduced to the cited entries.
 The build matches `limberger2019-advanced-as-submitted.pdf` in text and layout; only the arrow in the CCS concepts on page 1 renders in a lighter weight.
+On `main`, the build produces the revised version (`v1.1-revised`). Check out `v1.0-camera-ready` to reproduce `limberger2019-advanced-as-submitted.pdf`.
 
 ## Versions
 
 - [`v1.0-camera-ready`](https://github.com/dl-archive/article.2019-vinci-advanced/tree/v1.0-camera-ready) – sources as submitted to ACM
+- [`v1.1-revised`](https://github.com/dl-archive/article.2019-vinci-advanced/tree/v1.1-revised) – author's revised version (2026-11-13): spelling and grammar fixes, see [Revisions](#revisions)
+
+## Revisions
+
+`v1.1-revised` (2026-11-13) corrects errors in the camera-ready version without changing its content or layout (same page and column breaks).
+Every page carries the note "Author's revised version (2026-11-13). Version of record: https://doi.org/10.1145/3356422.3356444"; all author ORCIDs are now in the metadata (`\orcid`).
+
+- Spelling: "Voronoi", "multivariate", "preceding", "preprocessed", "error-proneness", "However" (was "Hoever"), "leaf nodes" (was "leave nodes").
+- Grammar and word choice: "an established", "variations of", "does the type of data impact", "Such a visualization pipeline", "naming scheme uses", "the above-mentioned challenges", "within the conceptual model", "focuses on its", "axes", "we suggest considering", "those of", "harnessing the habits", "This is usually available", "the data is", "software systems", "complex in themselves", "allows deriving", "outliers", "we suggest reducing", "such as", "seems", "as a secondary visual variable", "the computation's capabilities", "w.r.t. the", "as well as", "superimposed on", "requires visual comparison", "in combination with others is", "yet to be discussed", "quality measures", "on top of or within", "comply with", "able to communicate", "use of 2D and 2.5D", "allows reducing", "targeted for change in", "the context is", "mapped to height", "experiences of the authors", "Future work will evaluate", stray parenthesis, and missing commas.
+- Hyphenation: so-called, well-established, language-specific, medium- to large-sized, physically based, best practices, "mixed projection".
 
 ## Citation
 
