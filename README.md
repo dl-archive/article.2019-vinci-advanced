@@ -4,7 +4,7 @@
 
 *Proceedings of the 12th International Symposium on Visual Information Communication and Interaction (VINCI '19)*, September 20–22, 2019, Shanghai, China. ACM, pp. 11:1–8.
 
-[![Version of record: 10.1145/3356422.3356444](https://img.shields.io/badge/Version_of_record-10.1145%2F3356422.3356444-007ec6)](https://doi.org/10.1145/3356422.3356444) [![Author's version: 10.5281/zenodo.24176614](https://img.shields.io/badge/Author%27s_version-10.5281%2Fzenodo.24176614-007ec6)](https://doi.org/10.5281/zenodo.24176614) · [ResearchGate](https://www.researchgate.net/publication/335062804)
+[![Version of record: 10.1145/3356422.3356444](https://img.shields.io/badge/Version_of_record-10.1145%2F3356422.3356444-007ec6)](https://doi.org/10.1145/3356422.3356444) [![Author's version: 10.5281/zenodo.24176614](https://img.shields.io/badge/Author%27s_version-10.5281%2Fzenodo.24176614-007ec6)](https://doi.org/10.5281/zenodo.24176614) [![ResearchGate](https://img.shields.io/badge/ResearchGate-publication-00CCBB?logo=researchgate&logoColor=white)](https://www.researchgate.net/publication/335062804)
 
 > Software maps provide a general-purpose interactive user interface and information display for software analytics tools.
 > This paper systematically introduces and classifies software maps as a treemap-based technique for software cartography.
